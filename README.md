@@ -26,7 +26,9 @@ But I've also touched:
 
 My main goal with any project I do is to learn something new. I love constantly learning new things, it's what keeps me going.
 
-I'm currently working on [NanoHabits](https://github.com/WarriorAchilles/NanoHabits) off and on. My goal here is to create a minimalist habit tracker app that uses AI to help users break down their goals into small, actionable, daily habits.
+[shopify-metadata-migrator](https://github.com/WarriorAchilles/shopify-metadata-migrator) - Since I work in the ecommerce space currently, I created a CLI tool to help speed up the process of metafield and metaobject configuration in Shopify. It automatically copies metafield and metaobject definitions using the Shopify Admin GraphQL API and Node.js. The use case I created it for was for copying definitions from one store to another, e.g. dev to prod. It's published on [NPM](https://www.npmjs.com/package/shopify-metadata-migrator) so anyone can use it!
+
+[NanoHabits](https://github.com/WarriorAchilles/NanoHabits) - This is a project I'm currently working on off and on. My goal here is to create a minimalist habit tracker app that uses AI to help users break down their goals into small, actionable, daily habits.
 
 <!--
 **WarriorAchilles/WarriorAchilles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
