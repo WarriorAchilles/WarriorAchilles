@@ -4,6 +4,18 @@
 
 I specialize in creating web-based interfaces, both frontend and backend, mainly with JavaScript-based frameworks like React.js and Node.js.
 
+---
+_Built with [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout)_
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
+---
+
+
 Currently my favorite stack is:
 * TypeScript
 * React.js
