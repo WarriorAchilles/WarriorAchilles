@@ -1,6 +1,6 @@
 ![Zion Emond, Software Engineer](./github-header-banner.png)
 
-👋 I'm Zion Emond: a software engineer currently working for [CQL LLC](https://www.cqlcorp.com/) developing enterprise ecommerce solutions at scale. 
+👋 I'm Zion Emond: a senior software engineer currently working for [CQL LLC](https://www.cqlcorp.com/) developing enterprise ecommerce solutions at scale. 
 
 I specialize in creating web-based interfaces, both frontend and backend, mainly with JavaScript-based frameworks like React.js and Node.js.
 
